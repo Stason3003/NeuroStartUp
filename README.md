@@ -1,5 +1,5 @@
 # NeuroStartUp
 
-High search accuracy
-High search speed
-Low price
+1 High search accuracy
+2 High search speed
+3 Low price
