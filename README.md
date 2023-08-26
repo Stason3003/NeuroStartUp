@@ -1,8 +1,8 @@
 # NeuroStartUp
 
-1 High search accuracy
-2 High search speed
-3 Low price
+### 1 High search accuracy
+### 2 High search speed
+### 3 Low price
 
 ## Мы на столько крутые, что уже успели поработать со следующими компаниями:
 ### 1 ООО «Рога и копыта»
